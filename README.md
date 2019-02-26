@@ -77,6 +77,6 @@ Template.funnel.onRendered(function() {
 
 Et voila!
 
-![amcharts 4 working on Meteor](https://drive.google.com/file/d/1GIxpGaHRf96ny9tnZ3HUIiGlGuXsZt1W/view?usp=sharing)
-Format: ![amcharts 4 working on Meteor](https://drive.google.com/file/d/1GIxpGaHRf96ny9tnZ3HUIiGlGuXsZt1W/view?usp=sharing)
+![amcharts 4 working on Meteor](https://doc-08-9c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/cqbevkteumvd7d86f167nrc351usfpqt/1551182400000/04468418515282444686/*/1GIxpGaHRf96ny9tnZ3HUIiGlGuXsZt1W)
+Format: ![amcharts 4 working on Meteor](https://doc-08-9c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/cqbevkteumvd7d86f167nrc351usfpqt/1551182400000/04468418515282444686/*/1GIxpGaHRf96ny9tnZ3HUIiGlGuXsZt1W)
 
